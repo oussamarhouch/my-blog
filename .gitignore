@@ -22,7 +22,7 @@
 *.jar
 
 # Ignore package manager directories
-node_modules
+/node_modules/
 /vendor/
 
 # Ignore sensitive or private information
