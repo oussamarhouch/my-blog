@@ -1,12 +1,12 @@
 # Personal Node.js Express App with MongoDB and EJS
 
-This repository contains a personal web application built using Node.js, Express.js, MongoDB, and EJS. The application allows you to [briefly describe the main functionality or purpose of your app].
+This repository contains a personal web application built using Node.js, Express.js, MongoDB, and EJS.
 
 ## Features
 
-- [Feature 1]: [To-do List]
-- [Feature 2]: [Compatbility]
-- [Feature 3]: [Journet]
+- To-do List
+- Compatbility
+- Journey
 
 ## Installation
 
